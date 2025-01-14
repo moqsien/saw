@@ -4,7 +4,7 @@
 
 ![Saw Gif](https://media.giphy.com/media/3fiohCfMJAKf7lhnPp/giphy.gif)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/TylerBrock/saw)](https://goreportcard.com/report/github.com/TylerBrock/saw)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gvcgo/saw)](https://goreportcard.com/report/github.com/gvcgo/saw)
 
 ## Features
 
@@ -112,7 +112,7 @@ sudo dpkg -i <the_deb_name>
 
 - [Install go](https://golang.org/doc/install)
 - Configure your `GOPATH` and add `$GOPATH/bin` to your path
-- Run `go install github.com/TylerBrock/saw@latest`
+- Run `go install github.com/gvcgo/saw@latest`
 
 #### Windows Specifics
 

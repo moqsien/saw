@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/TylerBrock/saw/blade"
-	"github.com/TylerBrock/saw/config"
+	"github.com/gvcgo/saw/blade"
+	"github.com/gvcgo/saw/config"
 	"github.com/spf13/cobra"
 )
 
